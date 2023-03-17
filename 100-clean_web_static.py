@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python32
 import os
 from fabric.api import *
 
