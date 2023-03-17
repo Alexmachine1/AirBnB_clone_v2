@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/python36
 """Tests for the AirBnb clone modules.
 """
 import os
